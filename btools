@@ -2,5 +2,5 @@ local tool1 = Instance.new("HopperBin",game.Players.LocalPlayer.Backpack)
 local tool2 = Instance.new("HopperBin",game.Players.LocalPlayer.Backpack)
 local tool3 = Instance.new("HopperBin",game.Players.LocalPlayer.Backpack)
 tool1.BinType = "Clone"
-tool2.BinType = "Hammer"
-tool3.BinType = "Grab"
+tool2.BinType = "GameTool"
+tool3.BinType = "Hammer"

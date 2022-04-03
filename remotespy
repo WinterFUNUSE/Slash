@@ -200,5 +200,3 @@ gameMeta.__index, gameMeta.__namecall = function(self, key)
         return unpack(returnValues)
     end
 end
- 
-print("\n[ Remote Spy ]\n")

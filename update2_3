@@ -1,1 +1,5 @@
-Application.Exit();
+panel_main.Visible = true;
+panel_options.Visible = false;
+panel_tools.Visible = false;
+Directory.CreateDirectory(".//bin");
+Directory.CreateDirectory(".//bin//scripts");

@@ -1,1 +1,1 @@
-Application.Run(new Exploit());
+Application.Exit();
